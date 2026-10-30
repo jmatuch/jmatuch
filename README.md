@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jmatuch
-- 👀 I’m interested in HTML and JavaScript.
-- 🌱 I’m currently learning how to build and host a website.
-- 💞️ I’m looking to collaborate on web design, front- and back-end.
+- 👀 I’m interested in local AI.
+- 🌱 I’m currently learning how to use Claude Code and Codex together.
+- 💞️ I’m looking to collaborate on TBD.
 - 📫 How to reach me jmatuch2 at gmail.com
 
 <!---
